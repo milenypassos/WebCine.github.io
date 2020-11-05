@@ -1,0 +1,70 @@
+html {
+	scroll-behavior: smooth;
+}
+.naoentra{
+	margin-top: 6%;
+}
+.gradiente{
+	background-image: linear-gradient(to right, #696969, #a9a9a9);
+}
+#sobre{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.linha{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.tabela{
+	padding-top: 2%;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+table, th, td{
+	border: 5px groove #000;
+	text-align: center;
+	width: 100%
+}
+.letra{
+	font-size: 1em;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+th, td{
+	padding: 15px;
+	border-radius: 30%;
+}
+.centro{
+	text-align: center;
+}
+#quadro{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+	margin: auto;
+	height: auto;
+	width: auto;
+	overflow: hidden;
+}
+.card-body{
+	width: 100%;
+	align-items: center;
+}
+.classe{
+	padding: 20px 20px 20px;
+	margin-right: auto;
+	margin-left: auto; 
+}
+
+[controls]{
+	width: 105%;
+	align-items: center;
+}
